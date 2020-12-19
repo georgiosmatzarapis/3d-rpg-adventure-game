@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG GAME - Unity", "RPG GAME - Unity.csproj", "{E9A3E810-D292-9DAB-30D9-B74BED494BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG GAME - Unity.Plugins", "RPG GAME - Unity.Plugins.csproj", "{BBFDE3FA-3F22-DBD1-8744-531C0948D83A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG GAME - Unity.Editor.Plugins", "RPG GAME - Unity.Editor.Plugins.csproj", "{91DDE1AC-BD4C-ED14-4C77-0B022A718BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A3E810-D292-9DAB-30D9-B74BED494BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A3E810-D292-9DAB-30D9-B74BED494BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A3E810-D292-9DAB-30D9-B74BED494BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A3E810-D292-9DAB-30D9-B74BED494BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFDE3FA-3F22-DBD1-8744-531C0948D83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFDE3FA-3F22-DBD1-8744-531C0948D83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFDE3FA-3F22-DBD1-8744-531C0948D83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFDE3FA-3F22-DBD1-8744-531C0948D83A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91DDE1AC-BD4C-ED14-4C77-0B022A718BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DDE1AC-BD4C-ED14-4C77-0B022A718BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DDE1AC-BD4C-ED14-4C77-0B022A718BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DDE1AC-BD4C-ED14-4C77-0B022A718BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
